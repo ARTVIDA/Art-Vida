@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="concerts-passes.xsl" type="text/xsl"?>
+<concerts>
+		<concert concertid="01">
+	  		<titre>Centre culturel français de Tlemcen</titre>
+	  		<lieu>à l'Hotel Agadir, Tlemcen (Algérie)</lieu>
+	 </concert>
+		<concert concertid="02">
+	  		<titre>Hôtel Le New Beach</titre>
+	  		<lieu>à Oran (Algérie)</lieu>
+	</concert>
+		<concert concertid="03">
+	  		<titre>La Maison du Languedoc</titre>
+	  		<lieu>à Barcelone (Espagne)</lieu>
+	</concert>
+		<concert concertid="04">
+	  		<titre>Festival les Années Joué</titre>
+	  		<lieu>à Joué les Tours (37)</lieu>
+	</concert>
+		<concert concertid="05">
+	  		<titre>Première partie de Titi Robin</titre>
+	  		<lieu>pour Tournezi Live 2.0 à Montpellier (34)</lieu>
+	</concert>
+		<concert concertid="06">
+	  		<titre>Festival Estiv'arts</titre>
+	  		<lieu>à Ploermel (56)</lieu>
+	</concert>
+		<concert concertid="07">
+	  		<titre>Festival Visions Métisses</titre>
+	  		<lieu>Sur le port de Carnon (34)</lieu>
+	</concert>
+		<concert concertid="08">
+	  		<titre>Les Estivales</titre>
+	  		<lieu>sur L'Esplanade à Montpellier (34)</lieu>
+	</concert>
+		<concert concertid="09">
+	  		<titre>Festival d'Avignon</titre>
+	  		<lieu>Au village du Off à Avignon (84)</lieu>
+	</concert>
+		<concert concertid="10">
+	  		<titre>Festival à tout Monde</titre>
+	  		<lieu>à Saint Chamond (42)</lieu>
+	</concert>
+		<concert concertid="11">
+	  		<titre>Festiv'art</titre>
+	  		<lieu>à Grenoble (38)</lieu>
+	</concert>
+		<concert concertid="12">
+	  		<titre>Concert</titre>
+	  		<lieu>à la Commanderie d'Arville (41)</lieu>
+	</concert>
+		<concert concertid="13">
+	  		<titre>La nuit des chercheurs</titre>
+	  		<lieu>à la Cité Universitaire Internationnale à Paris (75)</lieu>
+	</concert>
+		<concert concertid="14">
+	  		<titre>Première partie des Boukakes</titre>
+	  		<lieu>pour les rencontres méditerranéennes de Gignac (34)</lieu>
+	</concert>
+		<concert concertid="15">
+	  		<titre>Festival du cinéma méditerranéen</titre>
+	  		<lieu>à Lunel (34)</lieu>
+	</concert>
+		<concert concertid="16">
+	  		<titre>Festival Quartier Libre</titre>
+	  		<lieu>à Montpellier (34)</lieu>
+	</concert>
+		<concert concertid="17">
+	  		<titre>Festival Vogua Mostra</titre>
+	  		<lieu>Au Grau du Roi (30)</lieu>
+	</concert>
+		<concert concertid="18">
+	  		<titre>Festival Choc des cultures</titre>
+	  		<lieu>à Clapier (34)</lieu>
+	</concert>
+		<concert concertid="19">
+	  		<titre>Festival des Voix</titre>
+	  		<lieu>Au Théâtre du Chien qui fume à Avignon (84)</lieu>
+	</concert>
+		<concert concertid="20">
+	  		<titre>Festival Terre des Sons</titre>
+	  		<lieu>à Arles (13)</lieu>
+	</concert>
+		<concert concertid="21">
+	  		<titre>Festival Les écluses en fête</titre>
+	  		<lieu>à Béziers (34)</lieu>
+	</concert>
+		<concert concertid="22">
+	  		<titre>Concert à l'Antirouille</titre>
+	  		<lieu>à Montpellier (34)</lieu>
+	</concert>
+		<concert concertid="23">
+	  		<titre>Concert au La Ré Do</titre>
+	  		<lieu>à Sillé le Guillaume (72)</lieu>
+	</concert>
+		<concert concertid="24">
+	  		<titre>Concert au Casino de Palavas</titre>
+	  		<lieu>à Palavas les Flots (34)</lieu>
+	</concert>
+		<concert concertid="25">
+	  		<titre>Fêtes médiévales</titre>
+	  		<lieu>à Sommières (34)</lieu>
+	</concert>
+</concerts>

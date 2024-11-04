@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="model.xsl" type="text/xsl"?>
+<concerts>
+		<concert concertid="21">
+	  		<titre>Concert au Diaprisyus</titre>
+	  		<date>20/07/2014</date>
+	  		<heure>20h30</heure>
+	  		<lieu>Le Diaprisyus Grand site de l'Aven d'Orgnac (07)</lieu>
+	  		<prix>5€</prix>
+	</concert>		
+		<concert concertid="20">
+	  		<titre>Nuit "Vida Loca" aux Nuits Couleurs</titre>
+	  		<date>06/07/2014</date>
+	  		<heure>21h00</heure>
+	  		<lieu>Place du jeu de Ballon à Gignac (34)</lieu>
+	  		<prix></prix>
+	</concert>		
+		<concert concertid="19">
+	  		<titre>Concert de rue</titre>
+	  		<date>31/05/2014</date>
+	  		<heure>12h00</heure>
+	  		<lieu>Place du Marché à Palavas les flots (34)</lieu>
+	  		<prix>libre</prix>
+	</concert>		
+		<concert concertid="18">
+	  		<titre>Concert et captation vidéo au GAM</titre>
+	  		<date>24/01/2014</date>
+	  		<heure>20h30</heure>
+	  		<lieu>Le GAM à Mauguio (34)</lieu>
+	  		<prix></prix>
+	</concert>
+		<concert concertid="17">
+	  		<titre>Concert à la Pleine Lune</titre>
+	  		<date>23/01/2014</date>
+	  		<heure>21h00</heure>
+	  		<lieu>La Pleine Lune à Montpellier (34)</lieu>
+	  		<prix></prix>
+	</concert>
+		<concert concertid="16">
+	  		<titre>Concert de rue</titre>
+	  		<date>20/12/2013</date>
+	  		<heure>15h30</heure>
+	  		<lieu>Clermont l'Hérault (34)</lieu>
+	  		<prix></prix>
+	</concert>			
+		<concert concertid="15">
+	  		<titre>Concert de rue</titre>
+	  		<date>08/12/2013</date>
+	  		<heure>15h30</heure>
+	  		<lieu>Clermont l'Hérault (34)</lieu>
+	  		<prix></prix>
+	</concert>			
+		<concert concertid="14">
+	  		<titre>Concert à la Laiterie</titre>
+	  		<date>06/12/2013</date>
+	  		<heure>21h00</heure>
+	  		<lieu>Laiterie des Beaux-Arts à Montpellier (34)</lieu>
+	  		<prix>5/3€</prix>
+	</concert>	
+		<concert concertid="13">
+	  		<titre>Concert à la Laiterie</titre>
+	  		<date>13/09/2013</date>
+	  		<heure>21h00</heure>
+	  		<lieu>Laiterie des Beaux-Arts à Montpellier (34)</lieu>
+	  		<prix>5/3€</prix>
+	</concert>		
+		<concert concertid="12">
+	  		<titre>Concert au Cap d'Agde</titre>
+	  		<date>15/08/2013</date>
+	  		<heure>21h30</heure>
+	  		<lieu>Mail de Rochelongue au Cap d'Agde (34)</lieu>
+	  		<prix></prix>
+	</concert>		
+		<concert concertid="11">
+	  		<titre>Les 30ans du cinéma Diagonal</titre>
+	  		<date>01/06/2013</date>
+	  		<heure>19h30</heure>
+	  		<lieu>Parc Montcalm à Montpellier (34)</lieu>
+	  		<prix></prix>
+	</concert>
+		<concert concertid="10">
+	  		<titre>La fête de Cabrafol</titre>
+	  		<date>30/03/2013</date>
+	  		<heure>21h</heure>
+	  		<lieu>Cabrafole à Saint Vincent d'Olargues (34)</lieu>
+	 		<prix>libre</prix>
+	</concert>
+		<concert concertid="9">
+	  		<titre>Concert à la Laiterie</titre>
+	  		<date>01/02/2013</date>
+	  		<heure>21h</heure>
+	  		<lieu>La Laiterie des Beaux Arts à Montpellier (34)</lieu>
+	  		<prix>5€/3€</prix>
+	</concert>
+</concerts>

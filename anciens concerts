@@ -1,0 +1,41 @@
+		<concert concertid="8">
+	  		<titre>Journée Mille et une nuits</titre>
+	  		<date>08/12/2012</date>
+	  		<heure>10h/18h</heure>
+	  		<lieu>Rue de la république à Bédarieux (34)</lieu>
+	  		<prix>0€</prix>
+	</concert>
+		<concert concertid="7">
+	  		<titre>L'équitacle concert au profit de  Xetic</titre>
+	  		<date>27/01/2012</date>
+	  		<heure>20h</heure>
+	  		<lieu>Salle Georges Brassens au Crès (34)</lieu>
+	  		<prix></prix>
+	</concert>		<concert concertid="6">
+	  		<titre>Concert à la Famourette</titre>
+	  		<date>25/08/2011</date>
+	  		<heure>21h</heure>
+	  		<lieu>La Famourette à Aniane (34)</lieu>
+	  		<prix>0€</prix>
+	</concert>
+		<concert concertid="5">
+	  		<titre>Concert à La Grange</titre>
+	  		<date>20/08/2011</date>
+	  		<heure>21h</heure>
+	  		<lieu>La Grange au Causse de la Selle (34)</lieu>
+	  		<prix>0€</prix>
+	</concert>
+		<concert concertid="4">
+	  		<titre>Concert aux Estivales</titre>
+	  		<date>19/08/2011</date>
+	  		<heure>21h</heure>
+	  		<lieu>L'Esplanade à Montpellier (34)</lieu>
+	  		<prix>0€</prix>
+	</concert>
+		<concert concertid="3">
+	  		<titre>Festival d'Avignon</titre>
+	  		<date>28/07/2011</date>
+	  		<heure>18h</heure>
+	  		<lieu>Au village du Off à Avignon (84)</lieu>
+	  		<prix>0€</prix>
+	</concert>

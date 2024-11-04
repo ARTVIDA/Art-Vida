@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="model.xsl" type="text/xsl"?>
+<concerts>
+		<concert concertid="01">
+	  		<titre>8 avril 2017 </titre>
+			<lieu>L'entre2Pot à Sete</lieu>
+	 </concert>
+		<concert concertid="02">
+	  		<titre>Le 15 avril 2017  </titre>
+	  		<lieu>Place de la mairie à Clapiers</lieu>
+
+	</concert>
+		<concert concertid="03">
+	  		<titre> 20 mai 2017   </titre>
+	  		<lieu> Art vida trio à Saussines </lieu>
+	</concert>
+		<concert concertid="04">
+	  		<titre> 27 mai 2017   </titre>
+	  		<lieu>Festival Singulièrement vôtre MPT Voltaire à Montpellier </lieu>
+	</concert>
+		<concert concertid="05">
+	  		<titre>10 juin 2017  </titre>
+	  		<lieu>Guinguette Miam Plage à Aniane </lieu>
+	</concert>
+		<concert concertid="06">
+	  		<titre>21 Juin 2017 </titre>
+	  		<lieu>Fête de la musique à Pézenas</lieu>
+	</concert>
+		<concert concertid="07">
+	  		<titre>27 juillet 2017  </titre>
+	  		<lieu>Gazette Cafe à Montpellier </lieu>
+	</concert>
+		<concert concertid="08">
+	  		<titre>23 Aout  2017  </titre>
+	  		<lieu>Mas de Riri à Octon </lieu>
+	</concert>
+			<concert concertid="09">
+	  		<titre>22 septembre  2017  </titre>
+	  		<lieu>Les Vendredis du Bourradet à La Seyne sur Mer</lieu>
+	</concert>
+				<concert concertid="10">
+	  		<titre>19 Janvier   2018  </titre>
+	  		<lieu>Concert + résidence La Passerelle à Jacou</lieu>
+	</concert>
+				<concert concertid="11">
+	  		<titre>7 Avril   2018  </titre>
+	  		<lieu>Concert à la Filature du Pont de Fer à Lasalle</lieu>
+	</concert>
+				<concert concertid="12">
+	  		<titre>29 Avril   2018  </titre>
+	  		<lieu>Festival des Brasseurs Amateurs à Montpellier</lieu>
+	</concert>
+				<concert concertid="13">
+	  		<titre>3 Mai   2018  </titre>
+	  		<lieu>Concert au Nu-Bahia à Montpellier</lieu>
+	</concert>
+				<concert concertid="14">
+	  		<titre>3 Août   2018  </titre>
+	  		<lieu>Concert à l'Aven d'Orgnac (07)</lieu>
+	</concert>
+				<concert concertid="15">
+	  		<titre>24 Août   2018  </titre>
+	  		<lieu>Concert aux Estivalles de Montpellier</lieu>
+	</concert>
+				<concert concertid="16">
+	  		<titre>30 Novembre 2018  </titre>
+	  		<lieu>Automne Palestien en Cévennes à St-Jean du Pin (30)</lieu>
+	</concert>
+			<concert concertid="17">
+	  		<titre>25 Janvier 2019</titre>
+	  		<lieu>Concert à la Maison pour tous A. Camus à Montpellier</lieu>
+	</concert>
+			<concert concertid="18">
+	  		<titre>6 Avril 2019</titre>
+	  		<lieu>Concert au Broc Café à Montpellier</lieu>
+	</concert>
+		<concert concertid="19">
+	  		<titre>9 Juin 2019</titre>
+	  		<lieu>Concert Mamasound à Montpellier</lieu>
+	</concert>
+			<concert concertid="20">
+	  		<titre>30 Juillet 2019</titre>
+	  		<lieu>Concert à Nant (12)</lieu>
+	</concert>
+</concerts>
