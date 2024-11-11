@@ -72,3 +72,35 @@ footer {
 footer a:hover {
   color: #00BFFF;
 }
+.container {
+  display: flex;
+  flex-direction: column;  /* Aligne les éléments verticalement */
+  justify-content: center; /* Centre verticalement les éléments */
+  align-items: center;     /* Centre horizontalement les éléments */
+  height: 100vh;           /* Si tu veux que ça occupe toute la hauteur de la fenêtre */
+}
+
+.smaller-text {
+  font-size: 16px;
+  text-align: center;
+  margin: 20px 0;  /* Ajoute de l'espace en haut et en bas */
+  line-height: 1.6;
+}
+/* Assurez-vous que l'image s'adapte à l'écran et devienne un bandeau */
+#banner-image {
+  width: 100%; /* La largeur est fixée à 100% de la page ou du conteneur */
+  height: auto; /* Maintient les proportions de l'image */
+  max-height: 300px; /* Limite la hauteur de l'image pour qu'elle ne soit pas trop grande */
+  object-fit: cover; /* L'image couvre toute la zone, même si elle est coupée */
+  margin-bottom: 20px; /* Espacement sous l'image */
+}
+
+/* Optionnel : ajuster les espacements et le texte */
+.container-fluid.bg-1 {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.display-title {
+  font-size: 2rem; /* Ajustez la taille du titre pour un affichage harmonieux */
+}
