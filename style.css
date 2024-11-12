@@ -30,6 +30,25 @@ body {
   margin: 0 auto;
 }
 
+/* S'assure que la page occupe toute la hauteur, footer en bas */
+html, body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+#main-content {
+  flex: 1; /* Prend tout l'espace restant pour éviter que le footer monte */
+}
+
+footer {
+  background-color: #222;
+  color: #fff;
+  padding: 20px;
+  width: 100%;
+  text-align: center;
+}
 
 
 h1, h2, h3 {
@@ -104,3 +123,41 @@ footer a:hover {
 .display-title {
   font-size: 2rem; /* Ajustez la taille du titre pour un affichage harmonieux */
 }
+/* Suppression du margin et padding par défaut du body */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Gotu', sans-serif;
+}
+
+/* Pour s'assurer que la navbar est collée en haut */
+.navbar {
+  margin: 0;
+}
+/* Pour s'assurer que le footer reste en bas de la page */
+
+
+/* Assurer que les images portrait ne soient pas coupées */
+.carousel-item img {
+  max-height: 80vh; /* Limite la hauteur de l'image au viewport pour éviter les coupures */
+  object-fit: contain; /* Préserve le ratio de l'image sans la couper */
+}
+
+/* Pour placer les légendes en dehors des images dans le carrousel */
+.carousel-caption {
+  position: static; /* Retire la position absolue pour éviter le chevauchement */
+  background: transparent; /* Enlève le fond des légendes */
+  color: #666; /* Changez la couleur pour une meilleure lisibilité */
+  margin-top: 10px; /* Espace entre l'image et la légende */
+  font-size: 1.2rem;
+}
+
+/* Centrer le texte de la légende */
+.carousel-caption p {
+  text-align: center;
+  margin: 0; /* Retire l'espacement pour un rendu plus propre */
+}
+
+
+
+
