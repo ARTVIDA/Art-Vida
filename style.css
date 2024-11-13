@@ -160,6 +160,17 @@ body {
 
 #interview-live {
   margin-top: 100px; /* Ajustez la valeur pour plus ou moins d'espace */
+
 }
 
+@media (min-width: 1200px) {
+  #interview-live {
+      max-width: 1140px; /* ou une autre valeur adaptée à votre mise en page */
+      margin: 0 auto; /* pour centrer la section */
+  }
+}
 
+.container, .container-fluid {
+  padding: 0 15px;
+  margin: 0 auto;
+}
