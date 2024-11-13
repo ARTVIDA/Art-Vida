@@ -158,6 +158,8 @@ body {
   margin: 0; /* Retire l'espacement pour un rendu plus propre */
 }
 
-
+#interview-live {
+  margin-top: 100px; /* Ajustez la valeur pour plus ou moins d'espace */
+}
 
 
